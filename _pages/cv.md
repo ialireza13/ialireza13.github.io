@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of Zanjan, 2019
+  * Supervisors: Moladad Nikbakht, Amirhossein Darooneh
+* M.S. in Physics, Sharif University of Technology, 2021
+  * Supervisor: Reza Ejtehadi
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2020: Data Scientist
+  * blu bank
+  * Duties included: Fraud detection algorithms, behaviour analysis, image processing, social network analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Machine Learning Intern
+  * Rahnema College
+  * Courses included: Classic ML, Deep learning, recommender systems
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++, Python, R, Matlab
+* Social media data mining, NetworkX, graph-tool
+* Keras and Pytorch, SciPy, Sklearn, Pandas, Parallel computing (OpenMP)
+* SQL/NoSQL databases, Neo4j, Data visualization, LaTeX
 
 Publications
 ======
@@ -54,6 +51,24 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other
 ======
-* Currently signed in to 43 different slack teams
+
+* NTD Hackathon runner-up team (covered in NPR.org [here](https://www.npr.org/sections/goatsandsoda/2021/06/10/1004317823/ready-set-think-hackathon-aims-to-kill-off-fake-health-rumors?t=1623391758841&t=1623400525877&t=1623401989271))
+
+* TA for Physics 1, Analytical Mechanics 1&2 (Sep 2017), Electromagnetism (Sep 2018), Nonlinear Dynamics & Chaos (Sep 2020)
+
+* Translation of the book "Dark Matter & Dark Energy" by Brian Clegg to Farsi
+
+* 23rd & 24th School on Physics, IASBS
+
+* Tehran Schoold on Complex Networks (TACN2018), Shahid Beheshti University
+
+References
+======
+
+* Prof. Amir Hossein Darooneh, Department of Applied Mathematics, University of Waterloo
+
+* Prof. Mohammad Reza Ejtehadi, Department of Physics, Sharif University of Technology
+
+* Prof. Moladad Nikbakht, Department of Physics, University of Zanjan
