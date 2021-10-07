@@ -77,3 +77,9 @@ redirect_from:
 * Prof. Mohammad Reza Ejtehadi, Department of Physics, Sharif University of Technology
 
 * Prof. Moladad Nikbakht, Department of Physics, University of Zanjan
+
+### Hobbies
+
+* Movies, a lot of them
+
+* Music, Amateur Oud player
