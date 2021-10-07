@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "Analysis of the ground-state energy eigenvalues of fractal quantum potentials"
+collection: Physica Scripta
+permalink: /publication/fractal_potentials_darooneh
+excerpt: 'This paper is on the numercial analysis of the ground-state energy eigenvalues of quantum fractal potentials.'
+date: August 2019
+venue: 'Physica Scripta'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1402-4896/ab2b6d'
+citation: 'Alireza Hashemi, Amir Hossein Darooneh (2019)'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
