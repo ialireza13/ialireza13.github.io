@@ -1,5 +1,5 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Effectiveness of social distancing through the lens of agent based modelling"
 collection: talks
 type: "Presentation"
 permalink: /talks/2020-10-20-ccs_social_distancing
