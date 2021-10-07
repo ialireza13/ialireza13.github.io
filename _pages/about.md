@@ -11,6 +11,16 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+====
+* Network Science and applications to real world problems (social networks, contagion spreading, etc.)
+
+* Complex systems regarding social and financial problems
+
+* Data science, analysis and visualization
+
+* Computational physics
+
 Education
 ======
 * B.S. in Physics, University of Zanjan, 2019
