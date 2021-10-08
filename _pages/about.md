@@ -59,7 +59,6 @@ redirect_from:
   
 ### Other
 
-
 * NTD Hackathon runner-up team (covered in NPR.org [here](https://www.npr.org/sections/goatsandsoda/2021/06/10/1004317823/ready-set-think-hackathon-aims-to-kill-off-fake-health-rumors?t=1623391758841&t=1623400525877&t=1623401989271))
 
 * TA for Physics 1, Analytical Mechanics 1&2 (Sep 2017), Electromagnetism (Sep 2018), Nonlinear Dynamics & Chaos (Sep 2020)
@@ -80,6 +79,6 @@ redirect_from:
 
 ### Hobbies
 
-* Movies, a lot of them
+* Movies, I watch a lot of them
 
-* Music, Amateur Oud player
+* Music, amateur Oud player
