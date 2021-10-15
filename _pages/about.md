@@ -81,4 +81,6 @@ redirect_from:
 
 * Movies, I watch a lot of them
 
+* Hiking, I do a lot of that
+
 * Music, amateur Oud player
