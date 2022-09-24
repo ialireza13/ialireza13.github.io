@@ -23,16 +23,20 @@ redirect_from:
 
 ### Education
 
-* B.S. in Physics, University of Zanjan, 2019
-  * Supervisors: Moladad Nikbakht, Amirhossein Darooneh
+* Ph.D. in Physics, City University of New York, 2022
+
 * M.S. in Physics, Sharif University of Technology, 2021
   * Supervisor: Reza Ejtehadi
 
+* B.S. in Physics, University of Zanjan, 2019
+  * Supervisors: Moladad Nikbakht, Amirhossein Darooneh
+
+
 ### Work experience
 
-* May 2020: Data Scientist
+* May 2020 - Aug 2022: Data Scientist
   * blu bank
-  * Duties included: Fraud detection algorithms, behaviour analysis, image processing, social network analysis
+  * Duties included: Fraud detection algorithms, customer behaviour analysis, image processing, social network analysis
 
 * Fall 2019: Machine Learning Intern
   * Rahnema College
@@ -83,4 +87,4 @@ redirect_from:
 
 * Hiking, I do a lot of that
 
-* Music, amateur Oud player
+* Music, amateur listener
