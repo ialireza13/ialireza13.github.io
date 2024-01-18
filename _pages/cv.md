@@ -56,7 +56,7 @@ Other
 
 * 23rd & 24th School on Physics, IASBS
 
-* Tehran Schoold on Complex Networks (TACN2018), Shahid Beheshti University
+* Tehran School on Complex Networks (TACN2018), Shahid Beheshti University
 
 References
 ======
