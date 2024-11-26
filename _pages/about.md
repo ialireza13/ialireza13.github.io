@@ -22,6 +22,7 @@ redirect_from:
 ### Education
 
 * Ph.D. in Physics, City University of New York, 2022-Present
+  * Supervisor: [Hernan A. Makse](https://scholar.google.com/citations?user=Xa30RAUAAAAJ&hl=en&oi=ao)
 
 * M.S. in Physics, Sharif University of Technology, 2019-2021
   * Supervisor: [Reza Ejtehadi](https://scholar.google.com/citations?user=FKH-RL4AAAAJ&hl=en)
@@ -31,6 +32,11 @@ redirect_from:
 
 
 ### Work experience
+
+* The Research Foundation of The City University of New York (RFCUNY): Research Assistant (August 2023 - Present)
+  * Conducted research on complex systems and networks, applying graph theory and machine learning to biological and social networks.
+  * Utilized Python, Networkx, Graph Neural Networks, and Large Language Models for social media sentiment analysis.
+  * Collaborated with a team to develop innovative solutions for network analysis and data interpretation.
 
 * blubank: Data Scientist (May 2020 - Aug 2022)
   * Fraud detection on user debit card transactional data using isolation forests, autoencoders, and feature engineering.
@@ -76,6 +82,8 @@ service.
 * Tehran  on Complex Networks (TACN2018), Shahid Beheshti University
 
 ### References
+
+* Prof. Hernan Makse, Levich Institute and Physics Department,City College of New York
 
 * Prof. Amir Hossein Darooneh, Department of Applied Mathematics, University of Waterloo, Researcher at SickKids Hospital
 
