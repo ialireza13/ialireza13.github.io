@@ -35,7 +35,7 @@ redirect_from:
 
 * The New York Times: Data Science Intern (June 2025 - August 2025)
 
-* Memorial Sloan Kettering Cancer Center: Research Assistant (July 2023 - Present)
+* Memorial Sloan Kettering Cancer Center: Research Assistant (July 2024 - Present)
   * Studying the brain functional and physical networks using graph theory & machine learning on fMRI data. (Neuroradiology Team, under supervision of [Andrei Holodny](https://www.mskcc.org/research-areas/labs/andrei-holodny))
 
 * blubank: Data Scientist (May 2020 - Aug 2022)
