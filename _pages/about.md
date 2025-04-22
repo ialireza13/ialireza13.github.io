@@ -33,10 +33,10 @@ redirect_from:
 
 ### Work experience
 
-* The Research Foundation of The City University of New York (RFCUNY): Research Assistant (August 2023 - Present)
-  * Conducted research on complex systems and networks, applying graph theory and machine learning to biological and social networks.
-  * Utilized Python, Networkx, Graph Neural Networks, and Large Language Models for social media sentiment analysis.
-  * Collaborated with a team to develop innovative solutions for network analysis and data interpretation.
+* The New York Times: Data Science Intern (June 2025 - August 2025)
+
+* Memorial Sloan Kettering Cancer Center: Research Assistant (July 2023 - Present)
+  * Studying the brain functional and physical networks using graph theory & machine learning on fMRI data. (Neuroradiology Team, under supervision of [Andrei Holodny](https://www.mskcc.org/research-areas/labs/andrei-holodny))
 
 * blubank: Data Scientist (May 2020 - Aug 2022)
   * Fraud detection on user debit card transactional data using isolation forests, autoencoders, and feature engineering.
