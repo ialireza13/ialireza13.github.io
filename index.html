@@ -55,7 +55,7 @@ redirect_from:
     <li>
       <span class="venue">{% if p.year %}{{ p.year }}{% else %}in review{% endif %}</span>
       <span>
-        {% if p.url %}<a class="title" href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}
+        {% if p.url %}<a class="title" href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}
         {% if p.year %}<span class="kind">{{ p.venue }}{% if p.kind == "talk" or p.kind == "poster" %} · {{ p.kind }}{% endif %}</span>{% endif %}
       </span>
     </li>
