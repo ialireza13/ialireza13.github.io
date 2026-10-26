@@ -1,0 +1,85 @@
+# Newest first. kind: paper, preprint, workshop, talk or poster.
+# url is optional.
+- title: Fibration Compression in Deep Neural Networks
+  venue: Under review
+  kind: preprint
+
+- title: Emergence of Fibrations, Compression, and Symmetry Breaking in Artificial Neural Networks
+  venue: Under review
+  kind: preprint
+  url: https://arxiv.org/abs/2609.01768
+
+- title: "CombiGraph-Vis: A Multimodal Olympiad Benchmark for Discrete Mathematical Reasoning"
+  venue: NeurIPS MATH-AI
+  year: 2025
+  kind: workshop
+  url: https://arxiv.org/abs/2510.27094
+
+- title: "RefGrader: Automated Grading of Mathematical Competition Proofs using Agentic Workflows"
+  venue: NeurIPS MATH-AI
+  year: 2025
+  kind: workshop
+  url: https://arxiv.org/abs/2510.09021
+
+- title: "Brains vs. Bytes: Evaluating LLM Proficiency in Olympiad Mathematics"
+  venue: COLM
+  year: 2025
+  kind: paper
+  url: https://arxiv.org/abs/2504.01995
+
+- title: "Symmetries and Synchronization in the C. elegans Connectome: Integration of Functional and Structural Networks"
+  venue: PNAS
+  year: 2025
+  kind: paper
+  url: https://www.pnas.org/doi/10.1073/pnas.2417850122
+
+- title: Protein Secondary Structure Prediction with GNNs and a Large-Scale Novel Graph Dataset
+  venue: Under review
+  kind: preprint
+
+- title: Visiting Distant Neighbors in Graph Convolutional Networks
+  venue: ICTIS
+  year: 2024
+  kind: paper
+  url: https://arxiv.org/abs/2301.10960
+
+- title: Social Distancing in Pedestrian Dynamics and its Effect on Disease Spreading
+  venue: Phys. Rev. E
+  year: 2021
+  kind: paper
+  url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.014313
+
+- title: Chaotic Dynamics of Active Topological Defects
+  venue: Soft Materials
+  year: 2021
+  kind: paper
+  url: https://www.tandfonline.com/doi/full/10.1080/1539445X.2021.1887222
+
+- title: Social Distancing in Pedestrian Dynamics
+  venue: Dyn. Bio. Systems
+  year: 2020
+  kind: talk
+  url: https://indico.cern.ch/event/943962/contributions/4022755/
+
+- title: COVID-19 in Iran
+  venue: NetSci
+  year: 2020
+  kind: poster
+  url: https://easychair.org/smart-program/NETSCI2020/2020-09-23.html
+
+- title: Effectiveness of Social Distancing Through the Lens of Agent-Based Modelling
+  venue: Complex Systems Society
+  year: 2020
+  kind: talk
+  url: http://ccs2020.web.auth.gr/effectiveness-social-distancing-through-lens-agent-based-modelling
+
+- title: Analysis of the Ground-State Energy Eigenvalues of Fractal Quantum Potentials
+  venue: Physica Scripta
+  year: 2019
+  kind: paper
+  url: https://iopscience.iop.org/article/10.1088/1402-4896/ab2b6d
+
+- title: Many-Body Effects on the Radiative Heat Transfer in Fractal Nanostructures
+  venue: IJAA
+  year: 2017
+  kind: paper

@@ -1,0 +1,31 @@
+education:
+  - degree: PhD, Physics
+    school: The City University of New York
+    logo: cuny.png
+    period: 2022 – now
+    detail: Graph fibrations and symmetry in biological and artificial neural networks.
+  - degree: MSc, Physics
+    school: Sharif University of Technology
+    logo: sharif.png
+    period: 2019 – 2022
+    detail: Chaotic dynamics of active topological defects, computational and theoretical physics.
+  - degree: BSc, Physics
+    school: University of Zanjan
+    logo: zanjan.png
+    period: 2015 – 2019
+    detail: Computational study of radiative heat transfer in nanostructures.
+
+teaching:
+  - what: Adjunct Lecturer, General Physics and Modern Physics for Engineers
+    period: 2023 – now
+  - what: Teaching Assistant, Nonlinear Dynamics and Chaos, Analytical Dynamics, Physics I and II
+    period: 2017 – 2020
+
+misc:
+  - what: NTD Hackathon, runner-up team
+    url: https://www.npr.org/sections/goatsandsoda/2021/06/10/1004317823/ready-set-think-hackathon-aims-to-kill-off-fake-health-rumors
+    period: 2021
+  - what: Best visualization award, Dynamical Biological Systems
+    period: 2020
+  - what: Farsi translation of "Dark Matter and Dark Energy" by Brian Clegg
+    period: 2020

@@ -1,0 +1,18 @@
+---
+layout: default
+title: Writing
+sitemap: false
+---
+<h1 class="page-title">Writing</h1>
+{% if site.posts.size > 0 %}
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li>
+    <span class="date">{{ post.date | date: "%b %Y" }}</span>
+    <span><a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% if post.description %}<span class="desc">{{ post.description }}</span>{% endif %}</span>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="empty">Nothing here yet.</p>
+{% endif %}

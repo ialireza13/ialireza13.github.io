@@ -1,0 +1,91 @@
+---
+layout: default
+redirect_from:
+  - /about/
+  - /publications/
+  - /talks/
+  - /resume/
+  - /year-archive/
+---
+<section class="intro">
+  <h1 class="visually-hidden">{{ site.author.name }}</h1>
+  <div class="links">
+    {% for l in site.links %}<a href="{{ l.url }}">{{ l.name }}</a>{% endfor %}
+    <a href="{{ site.cv | relative_url }}">cv.pdf</a>
+  </div>
+</section>
+
+<section class="section" id="experience">
+  <h2 class="section-title">experience</h2>
+  {% for job in site.data.experience %}
+  <div class="entry">
+    <span class="date">{{ job.period }}</span>
+    <div>
+      <h3>{% if job.logo %}<img class="logo" src="{{ '/assets/logos/' | append: job.logo | relative_url }}" alt="" width="18" height="18">{% endif %}{{ job.company }}{% if job.roles.size == 1 %} <span class="role">· {{ job.roles[0].title }}</span>{% endif %}</h3>
+      {% if job.roles.size == 1 %}
+        <p>{{ job.roles[0].summary }}</p>
+      {% else %}
+        <ul class="roles">
+          {% for r in job.roles %}
+          <li>
+            <div class="role-head"><span>{{ r.title }}</span>{% if r.dates %}<span class="date">{{ r.dates }}</span>{% endif %}</div>
+            {% if r.stints %}
+              {% for s in r.stints %}
+              <div class="stint"><p>{{ s.summary }}</p><span class="date">{{ s.dates }}</span></div>
+              {% endfor %}
+            {% else %}
+              <p>{{ r.summary }}</p>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+      {% if job.tags %}
+      <ul class="tags">{% for t in job.tags %}<li>{{ t }}</li>{% endfor %}</ul>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</section>
+
+<section class="section" id="publications">
+  <h2 class="section-title">publications</h2>
+  <ul class="pubs">
+    {% for p in site.data.publications %}
+    <li>
+      <span class="venue">{% if p.year %}{{ p.year }}{% else %}in review{% endif %}</span>
+      <span>
+        {% if p.url %}<a class="title" href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}
+        {% if p.year %}<span class="kind">{{ p.venue }}{% if p.kind == "talk" or p.kind == "poster" %} · {{ p.kind }}{% endif %}</span>{% endif %}
+      </span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="section" id="background">
+  <h2 class="section-title">background</h2>
+  {% assign bg = site.data.background %}
+  <ul class="plain">
+    {% for e in bg.education %}
+    <li>
+      <span class="date">{{ e.period }}</span>
+      <span>{% if e.logo %}<img class="logo" src="{{ '/assets/logos/' | append: e.logo | relative_url }}" alt="" width="18" height="18">{% endif %}{{ e.degree }}{% if e.school %} <span class="detail">· {{ e.school }}</span>{% endif %}{% if e.detail %}<br><span class="detail">{{ e.detail }}</span>{% endif %}</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <h3 class="subhead">teaching</h3>
+  <ul class="plain">
+    {% for t in bg.teaching %}
+    <li><span class="date">{{ t.period }}</span><span>{{ t.what }}</span></li>
+    {% endfor %}
+  </ul>
+
+  <h3 class="subhead">misc</h3>
+  <ul class="plain">
+    {% for h in bg.misc %}
+    <li><span class="date">{{ h.period }}</span><span>{% if h.url %}<a href="{{ h.url }}">{{ h.what }}</a>{% else %}{{ h.what }}{% endif %}</span></li>
+    {% endfor %}
+  </ul>
+</section>

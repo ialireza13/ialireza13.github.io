@@ -1,0 +1,8 @@
+# Shown in the "projects" menu in the top bar, in this order.
+- name: Weather Twins
+  url: /weather-twins/
+  description: Find cities around the world with weather like yours.
+
+# - name: That Movie Project
+#   url: https://thatmovieproject.streamlit.app
+#   description: Movie ratings and statistics mapped into 3D with PCA.

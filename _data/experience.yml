@@ -1,0 +1,40 @@
+# Newest first. A company with one role can still use a one-item `roles` list.
+# A role held more than once can list `stints` (dates + summary) instead.
+- company: The New York Times
+  logo: nyt.png
+  period: 2025 – now
+  roles:
+    - title: Machine Learning Scientist
+      dates: Oct 2026 – now
+      summary: Research and development on foundation AI models.
+    - title: Machine Learning Science Intern
+      stints:
+        - dates: Jun – Aug 2026
+          summary: Subscription gateway models for conversion and engagement.
+        - dates: Jun – Aug 2025
+          summary: Graph database and faster vector search for the advertising team.
+  tags: [foundation models, llms, graph ml, neo4j, vector search, gcp, airflow]
+
+- company: Memorial Sloan Kettering Cancer Center
+  logo: mskcc.png
+  period: 2025 – 2026
+  roles:
+    - title: Graduate Research Assistant
+      summary: Brain networks from fMRI with graph theory and machine learning.
+  tags: [fmri, network science]
+
+- company: blubank
+  logo: blubank.png
+  period: 2020 – 2022
+  roles:
+    - title: Data Scientist
+      summary: Fraud and money-laundering detection, KYC with liveness detection and on-device OCR, and credit scoring for 2M+ users.
+  tags: [anomaly detection, computer vision, graph ml, risk, airflow]
+
+- company: Rahnema Co.
+  logo: rahnema.png
+  period: 2020
+  roles:
+    - title: Machine Learning Intern
+      summary: Recommender system for a music streaming platform.
+  tags: [recommender systems]
